@@ -76,7 +76,7 @@ a:focus, a:hover {
 } 
 a.navbar-brand {
 	font-family: 'Racing Sans One', cursive;
-	font-size: 40px;
+	font-size: 50px;
 } 
 .navbar-default .navbar-brand {
 	color: #C0C6C6;
@@ -1916,9 +1916,5 @@ a.mail:hover {
 	.connect-social ul li { 
 		margin: 0 1px;
 	}
-}
+} 
 /*-- //Responsive Code --*/
-
-.mainContainer{
-	padding-top: 130px;
-}
