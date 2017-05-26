@@ -14,7 +14,7 @@
             <li class="hover-effect" id="res_index"><a href="index.html">主页</a></li>
             <li class="hover-effect" id="res_team"><a href="team.html" class="scroll">团队</a></li>
             <li class="hover-effect" id="res_features"><a href="features.html" class="scroll">品质</a></li>
-            <li class="hover-effect" id="res_features"><a href="honor.html" class="scroll">荣耀</a></li>
+            <li class="hover-effect" id="res_honor"><a href="honor.html" class="scroll">荣耀</a></li>
             <li class="hover-effect" id="res_specials"><a href="specials.html" class="scroll">健康生活</a></li>
             <li class="hover-effect" id="res_about"><a href="about.html" class="scroll">关于我们</a></li>
         </ul>
